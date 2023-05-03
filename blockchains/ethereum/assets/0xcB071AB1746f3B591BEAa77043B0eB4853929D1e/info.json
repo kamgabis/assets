@@ -1,0 +1,25 @@
+{
+    "name": "Jaybis",
+    "type": "ERC20",
+    "symbol": "JAYBIS",
+    "decimals": 18,
+    "website": "https://linktr.ee/jaybiseth",
+    "description": "JAYBIS is a cryptocurrency focused on building a strong community and supporting various charitable causes.",
+    "explorer": "https://etherscan.io/token/0xcb071ab1746f3b591beaa77043b0eb4853929d1e",
+    "status": "active",
+    "id": "0xCB071Ab1746F3B591BeAA77043b0eb4853929D1E",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/+4jBfkRdZP0NkMjFi"
+        },
+        {
+            "name": "linktree",
+            "url": "https://linktr.ee/jaybiseth"
+        }
+    ],
+    "tags": [
+        "community",
+        "charity"
+    ]
+}
